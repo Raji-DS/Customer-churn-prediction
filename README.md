@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Customer Churn Prediction Project
 
 ## Overview
@@ -113,3 +114,7 @@ The user enters customer details and the app predicts whether the customer will 
 ## Author
 
 Rajeswari Puliyadi Subramanian
+=======
+# Customer-churn-prediction
+ML model to predict customer churn
+>>>>>>> b6ebd3c4b84f66455019b671f9d5a62e91a5b8fa
